@@ -16,7 +16,7 @@ This project measures the RPM (Revolutions Per Minute) of a rotating object usin
 
 - Below you can see a schematic image to facilitate the wiring of cables from the microcontroller to devices, both input and output sensors:
 
-![Alt text](img/Schematic.jpg)
+![Alt text](img/skema.jpg)
 
 ## Circuit Diagram (Wiring)
 
