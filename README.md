@@ -1,5 +1,7 @@
 # Making RPM Counter (Tachometer) with IR Module --> (RPM Measurement with Arduino)
 
+Create an RPM counter (tachometer) with Arduino using an IR sensor and LCD module. This project calculates RPM based on sensor interrupts and displays the result on a 16x2 LCD. Perfect for measuring rotational speed, it includes circuit details, code, and setup instructions for accurate RPM readings.
+
 This project measures the RPM (Revolutions Per Minute) of a rotating object using an Arduino, an IR sensor, and an LCD display. The RPM is calculated based on the number of interrupts triggered by the IR sensor and displayed on the LCD.
 
 ## Components
